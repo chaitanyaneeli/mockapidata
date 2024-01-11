@@ -1,4 +1,5 @@
-[
+{
+  "products": [
   {
     "id": "thapaserialnoa",
     "name": "iphone x",
@@ -169,3 +170,4 @@
     "featured": true
   }
 ]
+}
